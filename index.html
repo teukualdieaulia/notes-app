@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Notes App Imut</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <app-header></app-header>
+
+  <main>
+    <note-form></note-form>
+    <section id="note-list" class="grid"></section>
+  </main>
+
+  <script src="app.js"></script>
+  <script type="module" src="./components/note-item.js"></script>
+  <script type="module" src="./components/note-form.js"></script>
+  <script type="module" src="./components/app-header.js"></script>
+</body>
+</html>
