@@ -2,9 +2,6 @@
 
 Aplikasi catatan sederhana dengan desain imut (cute) yang dibangun menggunakan Web Components dan CSS Grid. ✨
 
-![Preview Aplikasi](https://via.placeholder.com/800x400.png?text=Notes+App+Imut+Preview) 
-*(Anda bisa mengganti link ini dengan screenshot proyek Anda)*
-
 ## 🌟 Fitur
 - **Tambah Catatan** dengan judul dan isi
 - **Tampilan Grid** responsif
