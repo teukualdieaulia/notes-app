@@ -18,4 +18,4 @@ Aplikasi catatan sederhana dengan desain imut (cute) yang dibangun menggunakan W
 ## 🚀 Cara Menjalankan
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/notes-app-imut.git
+   git clone https://github.com/teukualdieaulia/notes-app-imut.git
